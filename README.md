@@ -1,8 +1,10 @@
 # Software Developer
 
-👨Sobre mim:
+😊👉❤️Sobre mim:
 
-Me chamo Raphaela, sou desenvolvedora de software e amo tecnologia no geral. Atuo mais na area de backend, porém tenho interesse em frontend também. Residente de São Paulo, amante de cubos mágicos e RPG, mãe de dois doguinhos, apreciadora de café gelado e Lo-fi.
+Me chamo Raphaela, sou desenvolvedora de software e amo tecnologia no geral. Atuo mais na area de backend, porém tenho interesse em frontend também. Residente de São Paulo, amante de cubos mágicos e RPG, mãe de dois doguinhos, apreciadora de café gelado☕ e Lo-fi🎧.
+
+
 
 
 📱Redes:
@@ -23,6 +25,10 @@ Me chamo Raphaela, sou desenvolvedora de software e amo tecnologia no geral. Atu
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelabaldi&show_icons=true&locale=en&layout=compact" alt="raphaelabaldi" /></p>
+
+
+🌟Stats:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelabaldi&show_icons=true&locale=en&layout=compact" alt="raphaelabaldi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelabaldi&show_icons=true&locale=en" alt="raphaelabaldi" /></p>
