@@ -3,7 +3,7 @@ Me chamo Raphaela, sou desenvolvedora de software e amo tecnologia no geral. Atu
 
 - Redes:
 
-[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://raphaelabaldi.medium.com)]
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://raphaelabaldi.medium.com)]
 
 - Techs:
 
