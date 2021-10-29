@@ -1,6 +1,6 @@
 # Software Developer
 
-😊👉❤️Sobre mim:
+😊👉 Sobre mim:
 
 Me chamo Raphaela, sou desenvolvedora de software e amo tecnologia no geral. Atuo mais na area de backend, porém tenho interesse em frontend também. Residente de São Paulo, amante de cubos mágicos e RPG, mãe de dois doguinhos, apreciadora de café gelado☕ e Lo-fi🎧.
 
