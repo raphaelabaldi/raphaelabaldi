@@ -11,7 +11,7 @@
 
 ##
 
-📱#### Como entrar em contato comigo:
+#### 📱 Como entrar em contato comigo:
 
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://raphaelabaldi.medium.com)
 
