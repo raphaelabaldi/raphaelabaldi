@@ -67,4 +67,3 @@ Competências: `Desenvolvimento Backend`, `MongoDB Admin`, `Software Test with J
 
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabaldi&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=raphaelabaldi&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=raphaelabaldi&amp;theme=radical"/>](https://github.com/)
