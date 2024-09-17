@@ -7,6 +7,7 @@
 - 🗺️ Sou de Osasco/SP, Brasil
 - ❤️ Apaixonada por Jogos de Tabuleiro, Games e Tecnologia
 - 🧠 Formada em Gestão de Tecnologia da Informação e um MBA em Engenharia de Software
+- 🖥️ Fullstack
 - 💼 Em busca de novas oportunidades de crescimento e ampliação de currículo!
 
 ##
